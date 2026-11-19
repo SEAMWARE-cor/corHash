@@ -181,8 +181,8 @@ int main(void)
 
 ## Dependencies
 
-- [corAlloc](https://github.com/SEAMWARE/corAlloc) - Memory pool allocator. Required to build and link; whether a table allocates from it or with malloc is chosen per table (`kaP`, `NULL` for malloc)
-- [corBase](https://github.com/SEAMWARE/corBase) - corAlloc's own dependency
+- [corAlloc](https://github.com/SEAMWARE-cor/corAlloc) - Memory pool allocator. Required to build and link; whether a table allocates from it or with malloc is chosen per table (`kaP`, `NULL` for malloc)
+- [corBase](https://github.com/SEAMWARE-cor/corBase) - corAlloc's own dependency
 
 ## License
 
